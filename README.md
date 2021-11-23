@@ -8,6 +8,12 @@ Technologies Used
 HTML5
 CSS3
 
+<p align="center">
+  <img src="https://github.com/Gunasaikiran/Restaurant-Website/blob/main/screenshot%2001.png" >
+  <img src="https://github.com/Gunasaikiran/Restaurant-Website/blob/main/website%20screen%20shots.png" >
+  <img src="https://github.com/Gunasaikiran/Restaurant-Website/blob/main/website%20screenshot02.png" >
+  
+</p>
 
 
 For Sponsor or Project Enquiry
