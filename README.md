@@ -12,6 +12,8 @@ CSS3
 
 For Sponsor or Project Enquiry
 Email - gunasaikiran8055@gmail.com
+
 Follow Me on
 LinkedIn - @gunasaikiran
+
 Instagram - @sunny_insta
