@@ -2,6 +2,8 @@
 This is a Restaurant Theme Website Template, designed using html and css.
  "Responsive Web Design project".
 
+ Online Example: <a href="https://gunasaikiran.github.io/Simple-snake-game.github.io/">Simple Game</a>
+
 Add a Star 🌟 to this 👆 Repositor
 
 Technologies Used
